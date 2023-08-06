@@ -1,3 +1,4 @@
+#Please download the dictionaries.py as well, without it this code will NOT run
 import cv2
 import cv2.aruco as aru 
 from dictionaries import dict
